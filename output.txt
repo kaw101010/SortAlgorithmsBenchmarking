@@ -1,0 +1,9 @@
+n=10, Insertion=1.418e-06s, Merge=5.354e-06s
+n=20, Insertion=5.438e-06s, Merge=1.2081e-05s
+n=50, Insertion=2.5037e-05s, Merge=3.5458e-05s
+n=100, Insertion=0.000113113s, Merge=6.9647e-05s
+n=200, Insertion=0.000389423s, Merge=0.000164184s
+n=500, Insertion=0.00282966s, Merge=0.000438094s
+n=1000, Insertion=0.0130606s, Merge=0.00104203s
+n=2000, Insertion=0.119439s, Merge=0.0360942s
+n=5000, Insertion=0.853594s, Merge=0.0169954s
